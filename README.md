@@ -4,7 +4,6 @@ This is a set of scripts and templates to extend Universal Fighting Engine 2<br>
 Download then import the unity package file into unity.<br>
 
 Base Requirements: Universal Fighting Engine 2<br>
-Universal Fighting Engine 2 Source is required for certain scripts.<br>
 
 Palette Editor Sprite And Palette Swap Sprite:<br>
 - Palette Editor Sprite: Allows you to create color palettes for sprites at runtime.<br>
